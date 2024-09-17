@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/praveenn0904/Leetcode-solutions/tree/master/3226-minimum-number-game) |
+## Math
+|  |
+| ------- |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 <!---LeetCode Topics End-->
