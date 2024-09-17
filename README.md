@@ -20,6 +20,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2083-three-divisors) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2752-sum-multiples) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2083-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
