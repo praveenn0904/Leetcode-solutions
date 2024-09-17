@@ -21,4 +21,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2752-sum-multiples](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2752-sum-multiples) |
 <!---LeetCode Topics End-->
