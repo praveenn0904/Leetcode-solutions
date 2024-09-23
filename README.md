@@ -43,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
