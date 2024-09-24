@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0027-remove-element) |
 | [3226-minimum-number-game](https://github.com/praveenn0904/Leetcode-solutions/tree/master/3226-minimum-number-game) |
 ## Sorting
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0234-palindrome-linked-list](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
