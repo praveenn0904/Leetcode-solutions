@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [3226-minimum-number-game](https://github.com/praveenn0904/Leetcode-solutions/tree/master/3226-minimum-number-game) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [3226-minimum-number-game](https://github.com/praveenn0904/Leetcode-solutions/tree/master/3226-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0234-palindrome-linked-list](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0349-intersection-of-two-arrays](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
 |  |
@@ -77,10 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0349-intersection-of-two-arrays](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Matrix
 |  |
 | ------- |
