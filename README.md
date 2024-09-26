@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0389-find-the-difference](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
 |  |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
