@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0941-sort-array-by-parity](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
+| [0948-sort-an-array](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0948-sort-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/praveenn0904/Leetcode-solutions/tree/master/3226-minimum-number-game) |
 ## Sorting
@@ -30,12 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0941-sort-array-by-parity](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
+| [0948-sort-an-array](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0948-sort-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/praveenn0904/Leetcode-solutions/tree/master/3226-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0948-sort-an-array](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0948-sort-an-array) |
 | [3226-minimum-number-game](https://github.com/praveenn0904/Leetcode-solutions/tree/master/3226-minimum-number-game) |
 ## Simulation
 |  |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0948-sort-an-array](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0948-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -152,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0948-sort-an-array](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0948-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -160,4 +165,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Merge Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0948-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0948-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0948-sort-an-array) |
 <!---LeetCode Topics End-->
