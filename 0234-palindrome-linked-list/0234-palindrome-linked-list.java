@@ -1,17 +1,26 @@
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        List<Integer> list = new ArrayList();
-        while(head != null) {
-            list.add(head.val);
-            head = head.next;
+        Stack<Integer> pila = new Stack<>();
+        ListNode aux = head;
+        ListNode medio = head;
+
+        // Paso #2 (Step #2)
+        while (aux != null && aux.next != null) {
+            pila.push(medio.val);
+            medio = medio.next;
+            aux = aux.next.next;
         }
-        
-        int left = 0;
-        int right = list.size()-1;
-        while(left < right && list.get(left) == list.get(right)) {
-            left++;
-            right--;
+
+        // Paso #3 (Step #3)
+        if (aux != null) medio = medio.next;
+
+        // Paso #4 (Step #4)
+        while (!pila.isEmpty()) {
+            int tope = pila.pop();
+            if (medio.val != tope) return false;
+            medio = medio.next;
         }
-        return left >= right;
+        return true;
+
     }
 }
