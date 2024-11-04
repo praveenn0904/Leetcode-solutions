@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1610-xor-operation-in-an-array](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1610-xor-operation-in-an-array) |
 | [2083-three-divisors](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2083-three-divisors) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2752-sum-multiples) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1610-xor-operation-in-an-array](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1610-xor-operation-in-an-array) |
 ## Linked List
 |  |
 | ------- |
