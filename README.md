@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0074-search-a-2d-matrix](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0205-isomorphic-strings](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0268-missing-number) |
