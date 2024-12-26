@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0389-find-the-difference](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0551-student-attendance-record-i](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0551-student-attendance-record-i) |
 | [1542-consecutive-characters](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1542-consecutive-characters) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/praveenn0904/Leetcode-solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
