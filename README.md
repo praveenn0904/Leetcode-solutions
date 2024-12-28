@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0561-array-partition](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0561-array-partition) |
 | [0941-sort-array-by-parity](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0948-sort-an-array) |
 | [1039-find-the-town-judge](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1039-find-the-town-judge) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0561-array-partition](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0561-array-partition) |
 | [0941-sort-array-by-parity](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0948-sort-an-array) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0948-sort-an-array) |
 ## Depth-First Search
 |  |
@@ -229,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1039-find-the-town-judge) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
