@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0561-array-partition) |
 | [0941-sort-array-by-parity](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0948-sort-an-array) |
+| [1025-minimum-cost-for-tickets](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1039-find-the-town-judge](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1039-find-the-town-judge) |
 | [1063-best-sightseeing-pair](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1063-best-sightseeing-pair) |
 | [2058-concatenation-of-array](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2058-concatenation-of-array) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0392-is-subsequence) |
+| [1025-minimum-cost-for-tickets](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1063-best-sightseeing-pair) |
 ## Tree
 |  |
