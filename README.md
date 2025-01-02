@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0258-add-digits](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0389-find-the-difference) |
