@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0561-array-partition) |
+| [0792-binary-search](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0948-sort-an-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1025-minimum-cost-for-tickets) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0792-binary-search](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0792-binary-search) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
 |  |
