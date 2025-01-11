@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0179-largest-number](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0268-missing-number) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0075-sort-colors) |
+| [0179-largest-number](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0179-largest-number](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0389-find-the-difference](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0392-is-subsequence) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0561-array-partition) |
 | [1502-construct-k-palindrome-strings](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
 ## Prefix Sum
