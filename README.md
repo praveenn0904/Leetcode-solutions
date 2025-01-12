@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1542-consecutive-characters](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1542-consecutive-characters) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2465-shifting-letters-ii) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Hash Table
 |  |
 | ------- |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0561-array-partition) |
 | [1502-construct-k-palindrome-strings](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Prefix Sum
 |  |
 | ------- |
