@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/praveenn0904/Leetcode-solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/praveenn0904/Leetcode-solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/praveenn0904/Leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/praveenn0904/Leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/praveenn0904/Leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Binary Search
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/praveenn0904/Leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/praveenn0904/Leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Quickselect
 |  |
 | ------- |
