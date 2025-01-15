@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2509-minimize-xor](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/praveenn0904/Leetcode-solutions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Linked List
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0561-array-partition) |
 | [1502-construct-k-palindrome-strings](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2509-minimize-xor](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2509-minimize-xor) |
 ## Prefix Sum
 |  |
 | ------- |
