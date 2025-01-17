@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/praveenn0904/Leetcode-solutions/tree/master/3226-minimum-number-game) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/praveenn0904/Leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2509-minimize-xor](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/praveenn0904/Leetcode-solutions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Linked List
 |  |
