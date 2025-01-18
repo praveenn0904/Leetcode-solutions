@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1039-find-the-town-judge](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1039-find-the-town-judge) |
 | [1063-best-sightseeing-pair](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1063-best-sightseeing-pair) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2058-concatenation-of-array](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2058-concatenation-of-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0948-sort-an-array) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3226-minimum-number-game](https://github.com/praveenn0904/Leetcode-solutions/tree/master/3226-minimum-number-game) |
 ## Simulation
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -280,10 +283,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0100-same-tree) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Graph
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1039-find-the-town-judge) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -322,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Shortest Path
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
