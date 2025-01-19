@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0407-trapping-rain-water-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0561-array-partition](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0561-array-partition) |
 | [0792-binary-search](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0407-trapping-rain-water-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0948-sort-an-array](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0948-sort-an-array) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3226-minimum-number-game](https://github.com/praveenn0904/Leetcode-solutions/tree/master/3226-minimum-number-game) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Divide and Conquer
 |  |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0100-same-tree) |
+| [0407-trapping-rain-water-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Graph
 |  |
