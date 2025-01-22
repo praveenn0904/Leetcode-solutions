@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1063-best-sightseeing-pair) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
+| [1876-map-of-highest-peak](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2058-concatenation-of-array](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2145-grid-game](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2145-grid-game) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2685-first-completely-painted-row-or-column) |
 ## Divide and Conquer
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1876-map-of-highest-peak) |
 ## Graph
 |  |
 | ------- |
