@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
 | [1876-map-of-highest-peak](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2058-concatenation-of-array](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2145-grid-game](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2145-grid-game) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2283-sort-even-and-odd-indices-independently) |
