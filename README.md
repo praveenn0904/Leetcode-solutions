@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1542-consecutive-characters](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1542-consecutive-characters) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0952-word-subsets) |
 | [1039-find-the-town-judge](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1039-find-the-town-judge) |
 | [1502-construct-k-palindrome-strings](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1396-count-servers-that-communicate](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
