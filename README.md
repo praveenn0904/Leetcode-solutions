@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2058-concatenation-of-array](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2145-grid-game](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2145-grid-game) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0258-add-digits) |
 | [2058-concatenation-of-array](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2058-concatenation-of-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3226-minimum-number-game](https://github.com/praveenn0904/Leetcode-solutions/tree/master/3226-minimum-number-game) |
 ## Math
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Stack
