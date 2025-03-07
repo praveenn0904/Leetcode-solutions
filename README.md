@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2083-three-divisors](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2083-three-divisors) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2610-closest-prime-numbers-in-range](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2752-sum-multiples](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2752-sum-multiples) |
 ## Enumeration
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2083-three-divisors) |
+| [2610-closest-prime-numbers-in-range](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2610-closest-prime-numbers-in-range) |
 ## String
 |  |
 | ------- |
