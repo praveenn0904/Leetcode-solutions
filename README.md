@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0551-student-attendance-record-i](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0551-student-attendance-record-i) |
 | [0952-word-subsets](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0952-word-subsets) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0952-word-subsets) |
 | [1039-find-the-town-judge](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1039-find-the-town-judge) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3483-alternating-groups-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 <!---LeetCode Topics End-->
