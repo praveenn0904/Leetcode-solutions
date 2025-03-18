@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2465-shifting-letters-ii) |
+| [2478-longest-nice-subarray](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2478-longest-nice-subarray) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2478-longest-nice-subarray](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2478-longest-nice-subarray) |
 | [2509-minimize-xor](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2478-longest-nice-subarray](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2478-longest-nice-subarray) |
 | [3483-alternating-groups-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 <!---LeetCode Topics End-->
