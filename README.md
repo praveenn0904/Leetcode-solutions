@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0551-student-attendance-record-i](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0551-student-attendance-record-i) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
