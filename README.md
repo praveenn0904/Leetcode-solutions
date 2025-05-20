@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0420-strong-password-checker](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0420-strong-password-checker) |
 | [0948-sort-an-array](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0948-sort-an-array) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3226-minimum-number-game](https://github.com/praveenn0904/Leetcode-solutions/tree/master/3226-minimum-number-game) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0336-palindrome-pairs) |
 | [0389-find-the-difference](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0420-strong-password-checker](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0420-strong-password-checker) |
 | [0551-student-attendance-record-i](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0551-student-attendance-record-i) |
 | [0952-word-subsets](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0952-word-subsets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0321-create-maximum-number](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0321-create-maximum-number) |
 | [0330-patching-array](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0330-patching-array) |
+| [0420-strong-password-checker](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0420-strong-password-checker) |
 | [0455-assign-cookies](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0561-array-partition) |
 | [1502-construct-k-palindrome-strings](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
