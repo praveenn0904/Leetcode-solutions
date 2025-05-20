@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0391-perfect-rectangle](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0391-perfect-rectangle) |
 | [0403-frog-jump](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
@@ -629,4 +630,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0175-combine-two-tables) |
+## Line Sweep
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0391-perfect-rectangle) |
 <!---LeetCode Topics End-->
