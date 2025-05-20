@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0132-palindrome-partitioning-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0174-dungeon-game](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0264-ugly-number-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0264-ugly-number-ii) |
