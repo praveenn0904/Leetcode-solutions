@@ -611,4 +611,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0335-self-crossing](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0335-self-crossing) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
