@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0258-add-digits) |
 | [2058-concatenation-of-array](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0268-missing-number) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0268-missing-number) |
