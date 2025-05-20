@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0312-burst-balloons](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0312-burst-balloons) |
+| [0321-create-maximum-number](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0321-create-maximum-number) |
 | [0347-top-k-frequent-elements](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0407-trapping-rain-water-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0234-palindrome-linked-list](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0321-create-maximum-number](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0321-create-maximum-number) |
 | [0349-intersection-of-two-arrays](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0455-assign-cookies) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0321-create-maximum-number](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0321-create-maximum-number) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Hash Table
 |  |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0179-largest-number) |
+| [0321-create-maximum-number](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0321-create-maximum-number) |
 | [0455-assign-cookies](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0561-array-partition) |
 | [1502-construct-k-palindrome-strings](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
@@ -520,4 +524,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0220-contains-duplicate-iii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0321-create-maximum-number](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0321-create-maximum-number) |
 <!---LeetCode Topics End-->
