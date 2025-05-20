@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0079-word-search) |
+| [0132-palindrome-partitioning-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0179-largest-number](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0044-wildcard-matching) |
+| [0132-palindrome-partitioning-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0264-ugly-number-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1025-minimum-cost-for-tickets) |
