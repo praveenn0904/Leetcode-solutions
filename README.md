@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0067-add-binary) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0264-ugly-number-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1025-minimum-cost-for-tickets) |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0561-array-partition) |
