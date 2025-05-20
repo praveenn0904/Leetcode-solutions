@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0089-gray-code](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0089-gray-code) |
 ## Design
 |  |
