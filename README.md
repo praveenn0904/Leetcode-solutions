@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0312-burst-balloons](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0321-create-maximum-number](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0321-create-maximum-number) |
+| [0327-count-of-range-sum](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0407-trapping-rain-water-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0327-count-of-range-sum](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0792-binary-search) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0327-count-of-range-sum](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0948-sort-an-array) |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0327-count-of-range-sum) |
 | [0948-sort-an-array](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -524,8 +528,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0220-contains-duplicate-iii) |
+| [0327-count-of-range-sum](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0327-count-of-range-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0321-create-maximum-number](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0321-create-maximum-number) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0327-count-of-range-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
