@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Search Tree
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Bucket Sort
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0100-same-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0684-redundant-connection) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0100-same-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
