@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0391-perfect-rectangle) |
 | [0403-frog-jump](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0410-split-array-largest-sum](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0455-assign-cookies](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0561-array-partition) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0410-split-array-largest-sum](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0792-binary-search](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0792-binary-search) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/praveenn0904/Leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0354-russian-doll-envelopes) |
 | [0392-is-subsequence](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1063-best-sightseeing-pair) |
@@ -519,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0179-largest-number) |
 | [0321-create-maximum-number](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0321-create-maximum-number) |
 | [0330-patching-array](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0330-patching-array) |
+| [0410-split-array-largest-sum](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0420-strong-password-checker](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0420-strong-password-checker) |
 | [0455-assign-cookies](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0561-array-partition) |
@@ -529,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0410-split-array-largest-sum](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
