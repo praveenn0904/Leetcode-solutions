@@ -408,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0854-making-a-large-island) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
 | [1039-find-the-town-judge](https://github.com/praveenn0904/Leetcode-solutions/tree/master/1039-find-the-town-judge) |
@@ -554,4 +556,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
