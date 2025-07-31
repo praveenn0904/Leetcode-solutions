@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0037-sudoku-solver) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/praveenn0904/Leetcode-solutions/tree/master/0075-sort-colors) |
